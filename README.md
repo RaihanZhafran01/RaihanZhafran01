@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00F7FF,25,8A2BE2,50,090909,75,8A2BE2,100,00F7FF&height=300&section=header&text=RAIHAN%20ZHAFRAN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULLSTACK%20ARCHITECT%20%E2%80%A2%20AI%20ENGINEER%20%E2%80%A2%20LINUX%20EXPERT&descSize=20&descAlignY=60"/>
+  <img src="https://raw.githubusercontent.com/username/repo/main/image_0.png" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Executing+Fullstack+Protocols...;Neural+Network+Integration+Active;Linux+Kernel+Optimization+In+Progress;Crafting+Future+Digital+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=RAIHAN%20ZHAFRAN" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=500&color=8A2BE2&center=true&vCenter=true&width=800&lines=FULLSTACK%20ARCHITECT%20%E2%80%A2%20AI%20ENGINEER%20%E2%80%A2%20LINUX%20EXPERT" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Mengeksekusi+Protokol+Fullstack...;Integrasi+Jaringan+Saraf+(AI)+Aktif;Optimalisasi+Kernel+Linux+Berjalan;Merancang+Solusi+Digital+Masa+Depan" />
 </p>
 
 <p align="center">
@@ -13,14 +21,7 @@
 ---
 
 ## 🧬 Intisari Profesional
-Saya adalah seorang pengembang yang mengeksplorasi batas antara **rekayasa perangkat lunak** dan **kecerdasan buatan**. Beroperasi di lingkungan **Linux**, saya mensintesis baris kode menjadi solusi digital yang presisi, *scalable*, dan cerdas.
-
----
-
-## 🏆 Pencapaian Kode (GitHub Trophies)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaihanZhafran01&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
-</p>
+Saya adalah seorang pengembang yang beroperasi di persimpangan antara **rekayasa perangkat lunak modern** dan **kecerdasan buatan**. Di dalam lingkungan **Linux**, saya mensintesis baris kode menjadi solusi digital yang presisi, *scalable*, dan cerdas, yang siap untuk lingkungan produksi.
 
 ---
 
@@ -32,7 +33,7 @@ Saya adalah seorang pengembang yang mengeksplorasi batas antara **rekayasa peran
 
 ---
 
-## 📊 Analisis Kecepatan & Aktivitas
+## 📊 Analisis Aktivitas & Performa
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanZhafran01&theme=tokyonight&hide_border=true&area=true&point=true" width="100%" />
 </p>
@@ -45,7 +46,7 @@ Saya adalah seorang pengembang yang mengeksplorasi batas antara **rekayasa peran
 ---
 
 ## 🌐 Jaringan Global
-Hubungi unit pusat untuk kolaborasi strategis:
+Untuk diskusi teknis, kolaborasi strategis, atau pertukaran ide, silakan hubungi unit pusat:
 
 <p align="center">
   <a href="https://discord.gg/Nf95RfxBR"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -56,9 +57,9 @@ Hubungi unit pusat untuk kolaborasi strategis:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00F7FF,25,8A2BE2,50,090909,75,8A2BE2,100,00F7FF&height=120&section=footer&animation=twinkling"/>
+  <img src="https://raw.githubusercontent.com/username/repo/main/image_0.png" width="100%"/>
 </p>
 
 <p align="center">
-  <code>[SYSTEM STATUS: ELITE] :: Raihan Zhafran © 2026 :: Built for the Future.</code>
+  <code>[SYSTEM STATUS: ELITE ACTIVE] :: Raihan Zhafran © 2026 :: Built for the Apex.</code>
 </p>
