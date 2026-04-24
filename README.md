@@ -1,38 +1,40 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:090909,30:00d2ff,100:3a7bd5&height=250&section=header&text=RAIHAN%20ZHAFRAN&fontSize=70&fontColor=ffffff&animation=soft&fontAlignY=40&desc=FULLSTACK%20ARCHITECT%20%7C%20AI%20BUILDER%20%7C%20LINUX%20ENTHUSIAST&descSize=20&descAlignY=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:00F7FF,100:8A2BE2&height=300&section=header&text=RAIHAN%20ZHAFRAN&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULLSTACK%20%E2%80%A2%20AI%20%E2%80%A2%20LINUX&descSize=20&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Fullstack+Infrastructure...;Neural+Network+Implementation+Active;Linux+Kernel+Optimization+Running;Building+Impactful+Digital+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Fullstack+Protocols...;Neural+Network+Integration+Active;Linux+Kernel+Optimization+In+Progress;Crafting+Scalable+Digital+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=RaihanZhafran01&label=SYSTEM%20VISITS&color=00F7FF&style=flat-square" alt="Visitor Counter" />
 </p>
+
+---
 
 ## 👨‍💻 Narasi Profesional
-Saya adalah seorang pengembang perangkat lunak yang berfokus pada integrasi teknologi mutakhir untuk menciptakan solusi digital yang komprehensif. Perjalanan profesional saya didorong oleh tiga pilar utama:
+Saya adalah seorang pengembang perangkat lunak yang berfokus pada integrasi teknologi mutakhir untuk menciptakan solusi digital yang komprehensif. Fokus utama saya mencakup tiga pilar fundamental:
 
 ### 🌐 Pengembangan Fullstack
-Saya memiliki keahlian dalam membangun aplikasi dari hulu ke hilir. Hal ini mencakup perancangan antarmuka pengguna (**Frontend**) yang interaktif dan responsif, serta pembangunan arsitektur **Backend** yang kokoh. Saya berfokus pada skalabilitas sistem, manajemen basis data yang efisien, dan penerapan protokol keamanan yang ketat guna memastikan performa aplikasi yang optimal pada skala produksi.
+Keahlian saya mencakup pembangunan aplikasi dari arsitektur *backend* yang kokoh hingga antarmuka pengguna yang responsif. Saya menitikberatkan pada skalabilitas sistem, efisiensi basis data, dan performa aplikasi pada lingkungan produksi.
 
 ### 🤖 Kecerdasan Buatan (AI)
-Dalam domain AI, saya berfokus pada implementasi praktis dari algoritma pembelajaran mesin dan jaringan saraf tiruan. Saya mengeksplorasi bagaimana AI dapat diintegrasikan ke dalam alur kerja aplikasi untuk memberikan fitur otomatisasi cerdas, analisis data prediktif, hingga pengembangan agen AI yang mampu meningkatkan efisiensi pengguna secara signifikan.
+Saya mendalami implementasi praktis algoritma pembelajaran mesin untuk menghadirkan fitur otomatisasi cerdas. Fokus saya adalah bagaimana AI dapat meningkatkan fungsionalitas aplikasi melalui analisis data prediktif dan integrasi model yang efisien.
 
-### 🐧 Administrasi Sistem Linux
-Sistem operasi Linux merupakan fondasi utama dari seluruh infrastruktur pengembangan saya. Saya mendalami manajemen server, otomatisasi skrip menggunakan Bash, hingga optimalisasi kernel untuk mencapai performa sistem yang maksimal. Pemahaman mendalam mengenai lingkungan Linux memungkinkan saya untuk mengelola ekosistem *DevOps* dan *Deployment* dengan presisi tinggi.
+### 🐧 Eksplorasi Sistem Linux
+Linux merupakan fondasi utama infrastruktur kerja saya. Saya menguasai manajemen server, otomatisasi skrip, serta optimalisasi lingkungan pengembangan guna memastikan proses *deployment* yang stabil dan aman.
 
 ---
 
-## 🛠️ Persenjataan Teknologi (Tech Stack)
+## 🛠️ Tumpukan Teknologi (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,laravel,python,tensorflow,pytorch,linux,git,docker,figma,tailwind&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,laravel,python,tensorflow,pytorch,linux,git,docker,bash,figma,tailwind&theme=dark&perline=9" />
 </p>
 
 ---
 
-## 📊 Analisis Performa & Aktivitas GitHub
+## 📊 Analisis Performa & Aktivitas
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanZhafran01&theme=tokyonight&hide_border=true&area=true&point=true" width="100%" />
@@ -45,23 +47,20 @@ Sistem operasi Linux merupakan fondasi utama dari seluruh infrastruktur pengemba
 
 ---
 
-## 🌐 Koneksi Global
-Mari berkolaborasi atau berdiskusi mengenai teknologi melalui saluran komunikasi berikut:
+## 🌐 Jaringan Komunikasi
+Mari berkolaborasi atau bertukar ide melalui saluran berikut:
 
 <p align="center">
-  <a href="https://discord.gg/Nf95RfxBR"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.instagram.com/raihan_zafrann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:hyakujunokaido30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/Nf95RfxBR"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/raihan_zafrann"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:hyakujunokaido30@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,30:00F7FF,70:2c5364,100:0f2027&height=150&section=footer&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:3a7bd5,70:00d2ff,100:090909&height=120&section=footer&animation=soft"/>
-</p>
-
-<p align="center">
-  <code>[SYSTEM OPERATIONAL] :: Raihan Zhafran © 2026 :: Crafted with Precision.</code>
-</p>
+  <code>[SYSTEM
