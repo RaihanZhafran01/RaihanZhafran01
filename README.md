@@ -1,40 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0b1120,100:00F7FF&height=250&section=header&text=Raihan%20Zhafran&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer%20|%20AI%20Specialist%20|%20Linux%20Enthusiast&descSize=20&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,30:00d2ff,100:3a7bd5&height=280&section=header&text=RAIHAN%20ZHAFRAN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULLSTACK%20%E2%80%A2%20AI%20%E2%80%A2%20LINUX&descSize=22&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Membangun+Solusi+Fullstack+yang+Scalable;Integrasi+Kecerdasan+Buatan+(AI);Optimalisasi+Sistem+Berbasis+Linux;Mengubah+Ide+Menjadi+Produk+Digital" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=System.init(%22Fullstack+Architecture%22);Integrating+Artificial+Intelligence;Linux+Kernel+Optimization;Turning+Logic+Into+Impact" />
 </p>
 
----
-
-## 👨‍💻 Profil Profesional
-Saya adalah seorang **Pengembang Fullstack** yang berdedikasi dalam menciptakan ekosistem aplikasi yang efisien dan inovatif. Fokus utama saya terletak pada konvergensi antara pengembangan perangkat lunak modern, implementasi model **Kecerdasan Buatan (AI)**, dan pengelolaan sistem berbasis **Linux**.
-
-Saya percaya bahwa teknologi terbaik adalah teknologi yang tidak hanya berfungsi secara teknis, tetapi juga mampu memberikan dampak nyata dan pengalaman pengguna yang optimal.
-
----
-
-## 🎯 Fokus dan Kompetensi
-
-* **Pengembangan Fullstack:** Membangun aplikasi dari arsitektur *backend* yang kokoh hingga antarmuka *frontend* yang responsif menggunakan teknologi mutakhir.
-* **Kecerdasan Buatan (AI):** Bereksperimen dengan integrasi model AI, otomatisasi cerdas, dan analisis data untuk meningkatkan kecerdasan sistem.
-* **Sistem Linux:** Optimasi performa server, manajemen *environment*, dan eksplorasi *DevOps* di lingkungan distribusi Linux.
-
----
-
-## 🛠️ Tumpukan Teknologi (Tech Stack)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,laravel,python,tensorflow,pytorch,linux,git,docker,figma,tailwind&theme=dark" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
+## 👨‍💻 Manifestasi Digital
+Saya adalah seorang pengembang yang beroperasi di persimpangan antara **logika kode** dan **kecerdasan buatan**. Dengan spesialisasi pada arsitektur *Fullstack* dan ekosistem *Linux*, saya berfokus pada pembangunan sistem yang tidak hanya memiliki performa tinggi, tetapi juga skalabilitas yang teruji di lingkungan produksi.
+
 ---
 
-## 📊 Statistik Aktivitas
+## 🛠️ Spesialisasi Teknologi (The Arsenal)
 
+| Bidang | Teknologi |
+| :--- | :--- |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> |
+| **Backend & AI** | <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,tensorflow,pytorch" /> |
+| **System & Ops** | <img src="https://skillicons.dev/icons?i=linux,git,docker,bash" /> |
+| **Design Tool** | <img src="https://skillicons.dev/icons?i=figma" /> |
+
+---
+
+## 🚀 Fokus Strategis
+* **Arsitektur Skalabel:** Mengembangkan aplikasi web yang mampu menangani beban data besar dengan latensi rendah.
+* **Implementasi AI:** Mengintegrasikan model pembelajaran mesin ke dalam alur kerja aplikasi untuk solusi otomatisasi cerdas.
+* **Optimasi Linux:** Mengelola lingkungan server dengan efisiensi tinggi melalui skrip otomatisasi dan konfigurasi sistem yang presisi.
+
+---
+
+## 📊 Analisis Performa & Aktivitas
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanZhafran01&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanZhafran01&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
@@ -44,21 +45,23 @@ Saya percaya bahwa teknologi terbaik adalah teknologi yang tidak hanya berfungsi
 
 ---
 
-## 🌐 Saluran Komunikasi
-Mari berdiskusi mengenai proyek, teknologi, atau kolaborasi melalui tautan berikut:
+## 🌐 Jaringan Komunikasi
+Untuk diskusi teknis, kolaborasi strategis, atau pertukaran ide, silakan hubungi saya melalui saluran berikut:
 
 <p align="center">
-  <a href="https://discord.gg/Nf95RfxBR"><img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" height="45"/></a>
-  <a href="https://www.instagram.com/raihan_zafrann"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="45"/></a>
-  <a href="mailto:hyakujunokaido30@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="45"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:00F7FF,60:0b1120,0:000000&height=100&section=footer&animation=fadeIn"/>
+  <a href="https://discord.gg/Nf95RfxBR"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/raihan_zafrann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:hyakujunokaido30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <code>[SYSTEM READY] :: Raihan Zhafran © 2026 :: Crafted with Precision.</code>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:090909,60:00d2ff,0:3a7bd5&height=100&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <code>[STATUS: OPERATIONAL] :: Raihan Zhafran © 2026 :: Crafted with Excellence.</code>
 </p>
