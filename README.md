@@ -22,7 +22,7 @@ Keahlian saya mencakup pembangunan aplikasi dari arsitektur *backend* yang kokoh
 Saya mendalami implementasi praktis algoritma pembelajaran mesin untuk menghadirkan fitur otomatisasi cerdas. Fokus saya adalah bagaimana AI dapat meningkatkan fungsionalitas aplikasi melalui analisis data prediktif dan integrasi model yang efisien.
 
 ### 🐧 Eksplorasi Sistem Linux
-Linux merupakan fondasi utama infrastruktur kerja saya. Saya menguasai manajemen server, otomatisasi skrip, serta optimalisasi lingkungan pengembangan guna memastikan proses *deployment* yang stabil dan aman.
+Linux merupakan fondasi utama infrastruktur kerja saya. Saya menguasai manajemen server, otomatisasi script, serta optimalisasi lingkungan pengembangan guna memastikan proses *deployment* yang stabil dan aman.
 
 ---
 
