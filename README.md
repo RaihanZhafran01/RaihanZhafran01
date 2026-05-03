@@ -28,7 +28,7 @@ Linux merupakan fondasi utama infrastruktur kerja saya. Saya menguasai manajemen
 
 ## 🛠️ Tumpukan Teknologi (Tech Stack)
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,laravel,python,tensorflow,pytorch,linux,git,docker,bash,figma,tailwind&theme=dark&perline=9" />
 </p>
 
