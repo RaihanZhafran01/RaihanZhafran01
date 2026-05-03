@@ -28,7 +28,7 @@ Linux merupakan fondasi utama infrastruktur kerja saya. Saya menguasai manajemen
 
 ## 🛠️ Tumpukan Teknologi (Tech Stack)
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,laravel,python,tensorflow,pytorch,linux,git,docker,bash,figma,tailwind&theme=dark&perline=9" />
 </p>
 
@@ -50,7 +50,7 @@ Linux merupakan fondasi utama infrastruktur kerja saya. Saya menguasai manajemen
 ## 🌐 Jaringan Komunikasi
 Mari berkolaborasi atau bertukar ide melalui saluran berikut:
 
-<p align="center">
+<p align="left">
   <a href="https://discord.gg/Nf95RfxBR"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/raihan_zafrann"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:hyakujunokaido30@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
