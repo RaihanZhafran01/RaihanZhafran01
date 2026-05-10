@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 Narasi Profesional
-Saya adalah seorang pengembang perangkat lunak yang berfokus pada integrasi teknologi mutakhir untuk menciptakan solusi digital yang komprehensif. Fokus utama saya mencakup tiga pilar fundamental yaitu:
+Saya adalah seorang pengembang perangkat lunak yang berfokus pada integrasi teknologi mutakhir untuk menciptakan solusi digital yang komprehensif. Fokus utama saya mencakup tiga pilar fundamental:
 
 ### 🌐 Pengembangan Fullstack
 Keahlian saya mencakup pembangunan aplikasi dari arsitektur *backend* yang kokoh hingga antarmuka pengguna yang responsif. Saya menitikberatkan pada skalabilitas sistem, efisiensi basis data, dan performa aplikasi pada lingkungan produksi.
