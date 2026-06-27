@@ -24,8 +24,6 @@
 
 ## 🧑‍💻 Tentang Saya
 
-<img align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="300" alt="Coding GIF"/>
-
 ```yaml
 nama       : Raihan Zhafran
 username   : RaihanZhafran01
@@ -41,7 +39,9 @@ Bidang yang paling menarik minat saya adalah **Kecerdasan Buatan (Artificial Int
 
 Sebagai pengguna **Arch Linux** sehari-hari, saya terbiasa dengan lingkungan pengembangan berbasis terminal dan sangat menghargai kontrol penuh atas sistem yang saya gunakan.
 
-<br clear="right"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="380" alt="Coding GIF"/>
+</div>
 
 ---
 
