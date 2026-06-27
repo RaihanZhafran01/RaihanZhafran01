@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00ff88&height=200&section=header&text=Hey%20There!%20I'm%20Raihan%20%F0%9F%91%8B&fontSize=36&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Linux%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=58&descSize=16&descColor=a0a0b0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00ff88&height=200&section=header&text=Hi%2C%20I'm%20Raihan%20%F0%9F%91%8B&fontSize=40&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Learning%20Software%20Engineering%20%7C%20Linux%20%7C%20AI&descAlignY=58&descSize=16&descColor=a0a0b0"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%F0%9F%9B%A0%EF%B8%8F;Linux+Daily+Driver+%F0%9F%90%A7;Curious+about+AI+%F0%9F%A4%96;Always+Learning%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=620&lines=Belajar+Software+Engineering+dari+nol+%F0%9F%93%96;Web+Dev+%E2%80%94+HTML+sampai+Backend+%F0%9F%8C%90;Arch+Linux+daily+driver+%F0%9F%90%A7;Penasaran+sama+dunia+AI+%F0%9F%A4%96;Masih+banyak+yang+belum+tau%2C+dan+itu+seru+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,48 +17,68 @@
 ## `$ whoami`
 
 ```bash
-┌──(raihan㉿linux)-[~]
-└─$ cat about_me.txt
+┌──(raihan㉿arch)-[~]
+└─$ cat about.txt
 
-  Name    : Raihan Zhafran
-  OS      : Linux 🐧
-  Editor  : VS Code
-  Focus   : Learning software engineering & AI
-  Status  : Still figuring things out, one commit at a time
+  Name      : Raihan Zhafran
+  Status    : Belajar software engineering📖
+  OS        : Arch Linux
+  Editor    : VS Code
+  Interest  : Web Development & AI
+  Mindset   : Tulis kode, error, cari tau kenapa, repeat.
 ```
 
 ---
 
-## `$ ls /tools-i-use`
+## `$ ls /what-i-know-so-far`
+
+> Ini yang lagi dipelajari — bukan yang sudah dikuasai.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
+**Fundamentals**
+
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
+
+**Tools & Environment**
+
+![Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=00ff88)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff88)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff88)
 
-**Currently exploring →**
+**Mulai dijajal →**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00ff88)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff88)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff88)
+
+**Penasaran sama →**
+
+![AI](https://img.shields.io/badge/AI_&_LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ff88)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=llvm&logoColor=00ff88)
 
 </div>
 
 ---
 
-## `$ cat now.txt`
+## `$ cat learning_journey.txt`
 
-```python
-today = {
-    "learning" : "AI & how LLMs actually work under the hood",
-    "using"    : "Linux daily — terminal is home 🏠",
-    "goal"     : "Build small things, break them, learn from it",
-    "vibe"     : "Enjoy the process, not just the output"
-}
+```text
+Sekarang lagi di fase:
+
+  [x] Paham cara kerja terminal & Linux dasar
+  [x] HTML, CSS, JavaScript — masih terus diperdalam
+  [x] Python untuk scripting & eksplorasi
+  [ ] Backend — baru mulai (Node.js / Express)
+  [ ] Database — belajar SQL & PostgreSQL
+  [ ] Ngerti cara kerja AI & LLM dari dasar
+  [ ] Deploy project pertama yang beneran jalan
+
+Masih panjang jalannya — dan itu oke.
 ```
 
 ---
