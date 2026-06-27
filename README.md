@@ -11,8 +11,8 @@
 <br/><br/>
 
 <!-- Profile Views & Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=00ff88&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=RaihanZhafran01&color=00ff88&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=00ff88&labelColor=0d1117)](https://github.com/RaihanZhafran01)
 
 </div>
 
@@ -99,13 +99,13 @@ fun_facts = [
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=a0a0b0&ring_color=00ff88" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaihanZhafran01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=a0a0b0&ring_color=00ff88" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=a0a0b0&currStreakNum=ffffff&sideNums=ffffff&dates=a0a0b0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanZhafran01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=a0a0b0&currStreakNum=ffffff&sideNums=ffffff&dates=a0a0b0" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=a0a0b0&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanZhafran01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=a0a0b0&langs_count=8" />
 
 </div>
 
@@ -115,7 +115,7 @@ fun_facts = [
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=003322)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaihanZhafran01&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=003322)
 
 </div>
 
@@ -148,9 +148,9 @@ fun_facts = [
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaihanZhafran01/RaihanZhafran01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaihanZhafran01/RaihanZhafran01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RaihanZhafran01/RaihanZhafran01/output/github-snake-dark.svg" />
 </picture>
 
 <br/>
