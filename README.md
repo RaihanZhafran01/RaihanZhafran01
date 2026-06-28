@@ -138,7 +138,7 @@ Sebagai pengguna **Arch Linux** sehari-hari, saya terbiasa dengan lingkungan pen
 ## 🗺️ Peta Perjalanan Belajar
 
 ```
-2024 ─────────────────────────────────────────────────────────► Sekarang
+2026 ─────────────────────────────────────────────────────────► Sekarang
   │
   ├── 🌱 Dasar Pemrograman
   │       └── Python, HTML/CSS, Logic Dasar
